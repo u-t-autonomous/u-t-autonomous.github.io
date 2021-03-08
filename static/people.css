@@ -1,0 +1,19 @@
+/* Base Styles
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+
+.people_table_hack {
+    
+    width: 80%;
+
+}
+
+.people_table_hack td {
+    border-bottom: white;
+    
+}
+
+.people_table_hack td:first-child{
+    width:100px;
+}
+

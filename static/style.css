@@ -1,0 +1,20 @@
+/* Links */
+	
+a {
+	color: bg-primary;
+	text-decoration: none;
+	border-bottom: 1px bg-primary; }
+	
+
+nav a {
+    color: inherit;
+    display: inline-block;
+    text-decoration:none;
+    padding:0 2rem;
+    border-bottom: none;
+}
+
+nav li a:hover nav, li.current a.nav-link{
+	color: white;
+	border-bottom: 1px solid #e1e1e1;
+}
