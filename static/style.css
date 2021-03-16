@@ -18,3 +18,7 @@ nav li a:hover nav, li.current a.nav-link{
 	color: white;
 	border-bottom: 1px solid #e1e1e1;
 }
+
+p {
+	margin-left: 50px;
+}
