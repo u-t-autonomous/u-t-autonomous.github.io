@@ -2,11 +2,6 @@
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
 
-.people_table_hack {
-    margin-left: 50px;
-    width: 80%;
-
-}
 
 .people_table_hack td {
     border-bottom: white;
@@ -17,9 +12,7 @@
     width:100px;
 }
 
-h4, h3{
-	margin-left: 50px;
-}
+
 
 iframe{
 	margin-left: 50px;

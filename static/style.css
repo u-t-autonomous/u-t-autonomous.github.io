@@ -19,6 +19,12 @@ nav li a:hover nav, li.current a.nav-link{
 	border-bottom: 1px solid #e1e1e1;
 }
 
-p {
-	margin-left: 50px;
+
+
+
+
+#container {
+	max-width: 80%;
+	padding-top: 2rem;
+	margin-bottom: 2rem;
 }
