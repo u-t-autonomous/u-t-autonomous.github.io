@@ -5,14 +5,22 @@
 
 .people_table_hack td {
     border-bottom: white;
-    
+   
 }
 
 .people_table_hack td:first-child{
+   
     width:100px;
 }
 
-
+td.bio{
+    width: 83%;
+    margin-left: 100px;
+}
+.people_table_hack {
+    
+    width: 100%;
+}
 
 iframe{
 	margin-left: 50px;
