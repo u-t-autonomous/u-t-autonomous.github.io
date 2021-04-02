@@ -1,0 +1,3 @@
+group pic
+3rd with drone
+4th with turtlebot
