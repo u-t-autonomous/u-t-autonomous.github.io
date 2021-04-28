@@ -1,0 +1,7 @@
+-center tabs
+-make font bigger, darker, more contrast
+-light mode and dark mode
+-research projects (current research page) and research highlights
+-remove videos from research tab
+-people at end
+-remove publications tab, add research highlights

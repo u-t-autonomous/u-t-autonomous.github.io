@@ -19,8 +19,20 @@ nav li a:hover nav, li.current a.nav-link{
 	border-bottom: 1px solid #e1e1e1;
 }
 
+.navbar.center .navbar-inner {
+    text-align: center;
+}
 
+.navbar.center .navbar-inner .nav {
+    display:inline-block;
+    float: none;
+	vertical-align: middle;
+}
 
+td.bio{
+    width: 83%;
+    margin-left: 100px;
+}
 
 
 #container {
